@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TestShip Studio</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 29 Nov 2022 23:39:46 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Springham/testship.studio.public/releases/download/1.0/TestShip-Studio.dmg" length="42337470" type="application/octet-stream" sparkle:edSignature="IDLhpaVHcJ9NqAEv8lEGjMXL6xp2vP0+1S4C3Kvm/s+Ye3QoFkJMxBhPEUSxij9HObTiHqxoqpr6ZOh3NkuFAQ=="/>
+        </item>
+    </channel>
+</rss>
